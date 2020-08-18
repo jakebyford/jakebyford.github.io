@@ -1,0 +1,45 @@
+/*
+ First External CSS Stylesheet
+ */
+header {
+  padding: 20px;
+  height: 80px;
+  background-color: black;
+}
+
+#id1 {
+  fontsize: 80px;
+  text-align: center;
+  color: white;
+}
+#bio-name {
+  text-align: center;
+}
+img {
+  width: 250px;
+  height: 300px;
+  margin-left: 40%;
+}
+p {
+  text-align: center;
+}
+#contact-info {
+  text-align: center;
+}
+ul {
+  text-align: center;
+  border-style: solid;
+  border-width: 5px;
+  font-size: 20px;
+  list-style-position: inside;
+}
+/* Styling for HTML elements */
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333;
+  background: #efeee7;
+}
